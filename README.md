@@ -7,7 +7,7 @@
 3. Support compress data and send in real time.
 4. Support multiple files and folder transferring with interruption resuming capability to protect transfer against network failure.
 
-## restriction
+## Restriction
 
 1. Path can not include space.
 2. no upload for file name with space and hidden file。
